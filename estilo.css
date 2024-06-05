@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(241, 85, 132);
+    color: rgb(43, 61, 226);
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+.principal{
+    background:blueviolet;
+    color: aqua;
+}
+.welcome{
+    background: rgb(100, 0, 47);
+    color: rgb(253, 101, 202);
+}
+.information{
+    background-color: blueviolet;
+    color: aqua;
+}
+.jersey-15-regular {
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .geo-regular {
+    font-family: "Geo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .official-web{
+    background-color: rgb(100, 0, 83);
+    color: rgb(197, 118, 184);
+  }
