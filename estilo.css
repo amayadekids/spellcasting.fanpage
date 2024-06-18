@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(241, 85, 132);
+    background-color: rgb(238, 86, 150);
     color: rgb(43, 61, 226);
     text-align: center;
 }
@@ -11,7 +11,7 @@ img{
     color: aqua;
 }
 .welcome{
-    background: rgb(100, 0, 47);
+    background: rgb(148, 4, 112);
     color: rgb(253, 101, 202);
 }
 .information{
